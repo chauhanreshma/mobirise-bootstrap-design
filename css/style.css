@@ -1,0 +1,17 @@
+.bg-img{
+    background-image: url("../image/headphone.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.menubar{
+    background-color: #fac769;
+}
+.notline:hover{
+    text-decoration: none;
+    background-color: lightgray !important;
+}
+.gallery{
+    background-image: url("../image/01.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
