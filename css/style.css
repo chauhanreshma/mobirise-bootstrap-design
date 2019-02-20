@@ -10,8 +10,7 @@
     text-decoration: none;
     background-color: lightgray !important;
 }
-.gallery{
-    background-image: url("../image/01.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+.text-size{
+    font-size:70px;
+    color: orange;
 }
