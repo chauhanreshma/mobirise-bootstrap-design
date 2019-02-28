@@ -1,16 +1,94 @@
-.bg-img{
+.bg-img {
     background-image: url("../image/headphone.jpg");
     background-size: cover;
     background-position: center;
 }
-.menubar{
+
+.menubar {
     background-color: #fac769;
 }
-.notline:hover{
+
+.notline:hover {
     text-decoration: none;
     background-color: lightgray !important;
 }
-.text-size{
-    font-size:70px;
-    color: orange;
+
+.text-size {
+    font-size: 70px;
+    color: #fac769;
+    font-family: 'Poppins', sans-serif;
+
 }
+
+.index {
+    z-index: 1;
+}
+
+.styletext {
+    font-size: 17px;
+}
+
+.fontcolor {
+    color: #4e555b;
+}
+
+.fab {
+    padding: 14px 14px;
+    font-size: 15px;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 50%;
+
+}
+.pos{
+    top: 20px;
+    left: 85px;
+    position: relative;
+}
+
+.bg-facebook {
+    background: #fac769;
+    color: white !important;
+}
+.bg-facebook:hover{
+    background-color: #f5d69c;
+}
+.fas{
+    padding: 14px 14px;
+    font-size: 15px;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 50%;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menupos{
+    /*position: relative;*/
+    /*left: 20px;*/
+    float: right;
+    margin-bottom: 20px;
+}
+.posimg{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+
+.footer-heading{
+    font-size: 16px;
+    font-weight: 300;
+    color: #767676;
+}
+
+
+
