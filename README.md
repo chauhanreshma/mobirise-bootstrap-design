@@ -1,2 +1,2 @@
 # mobirise-bootstrap-design
-<a href="https://mobirise-layout.netlify.com/">visit</a>
+<a href="https://mobirise-bootstrap-layout.netlify.com">visit</a>
